@@ -10,6 +10,9 @@ public class ArrayTry {
     }
     }
     	
+                            /* Swap two Variables without creating temp or third variabla */
+
+
 //    	int a = 10;
 //    	int b = 5;
 //    	
@@ -21,6 +24,10 @@ public class ArrayTry {
 //    	System.out.println(a);
 //    }
 //    }
+
+
+                                             /* Fibonacci Series */
+
     	
 //    	int n = 10, firstTerm = 0, secondTerm = 1;
 //        System.out.println("Fibonacci Series till " + n + " terms:");
@@ -34,6 +41,8 @@ public class ArrayTry {
 //        }
 //      }
 //    }
+
+                                      /*  Prime Number  */
     	
 //    	int n = 24;
 //    	int fact = 0;
@@ -52,6 +61,8 @@ public class ArrayTry {
 //    }
 //    }
 
+                                    /*  Reverse a String  */
+
 
     	
 //    	String s = "Hello, World!";
@@ -65,7 +76,8 @@ public class ArrayTry {
 //    }
 //    }
 
-
+                                            
+                                            /* Find the Factorial */
     	
 //    	int fact = 10;
 //    	int mul =1;
@@ -77,6 +89,8 @@ public class ArrayTry {
 //    }
 //    }
     	
+
+                                  /*  PALINDROME  ^/        
 
 
 //    	String s = "malayalam";
@@ -95,6 +109,10 @@ public class ArrayTry {
 //    	}
 //    }
 //    }
+
+                                        
+                             /*  Concate Two Strings and Sort it without using "Sort" Keyword  */
+
    	
 //    	int [] n1 = { 7,5,4,1};
 //    	int [] n2 = {1,3,6,2};
@@ -127,7 +145,8 @@ public class ArrayTry {
 //    }
 //}
     	
-    	
+    	                          /*  Reverse a Array of Numbers   */
+
     	
     	
 //    	int [] store = new int [n.length];
@@ -144,6 +163,8 @@ public class ArrayTry {
 //    }
 //    }
     	
+                               /*  Add the array and Add the Single Numbers If it is 2 digit seperate and Add it 
+                                   and Find a Difference  */
 
     	
 //    	int []nums = {1,15,6,3};
@@ -171,6 +192,9 @@ public class ArrayTry {
 //    }
 //}
     	
+         
+                           /*  Concate Two Strings and Check whether it is Equal or not */
+
     	
 //    	
 //    	String [] word1 = {"ab", "c"};
@@ -203,6 +227,7 @@ public class ArrayTry {
 //}
     	
     	
+                              /*  Prime Number Identification  */
 
 //    	for (int i = 3; i <=100; i++) {
 //            int factor =0;
@@ -218,9 +243,9 @@ public class ArrayTry {
 //    }
 //}
     	
-    	
+    	                          /*  Concate Two Arrays and Add it  */
 
-		
+		 
 //		int[] nums1 = {1,3};
 //		int [] nums2 = {2,4};
 //
